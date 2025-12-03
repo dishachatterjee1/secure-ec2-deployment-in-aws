@@ -23,8 +23,6 @@ md
 ![EC2 Architecture](secure-ec2-deployment/Architecture_Diagram.png)
 
 
-(Add your architecture PNG with this exact name)
-
 ---
 
 # ⭐ *Key Features*
