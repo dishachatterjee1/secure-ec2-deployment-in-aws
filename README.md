@@ -1,6 +1,6 @@
 # *Secure EC2 Hosting in a Custom VPC with IAM Roles, S3 Logging & CloudWatch Monitoring*
 
-This project demonstrates how to deploy a *highly secure, production-ready EC2 environment* inside a custom VPC using a bastion host, strict security groups, IAM roles, S3 logging, and CloudWatch monitoring — all built *100% through the AWS Management Console*.
+This project demonstrates how to deploy a highly secure, production-ready EC2 environment inside a custom VPC using a bastion host, strict security groups, IAM roles, S3 logging, and CloudWatch monitoring.
 
 ---
 
